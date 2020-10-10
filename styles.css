@@ -1,0 +1,15 @@
+#bar1 {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+}
+
+#bar2 {
+  width: 300px;
+  height: 10px;
+  background-color: red;
+}
+
+#animate-btn {
+  margin-top: 10px;
+}
